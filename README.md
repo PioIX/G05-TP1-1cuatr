@@ -93,40 +93,47 @@ Incluye un contrareloj
 
 #### Tareas:
 
-Investigación y redacción de preguntas y sus respuestas
+1. Investigación y redacción de preguntas y sus respuestas
 
-Diseño de imagen y de la UI
+2. Diseño de imagen y de la UI
 
-Diseño de la base de datos 
+3. Diseño de la base de datos 
 
-Funciones de interacción con la base (API, Flask) 
+4. Funciones de interacción con la base (API, Flask) 
 
-Front-end del juego (HTML, CSS, JS)
+5. Front-end del juego (HTML, CSS, JS)
 
-Testeo 
+6. Testeo 
 
-Puesta en producción
+7. Puesta en producción
 
 
-Reponsabilidades
+#### Reponsabilidades
 
-3. Gutierrez
-6. López
-   4. 7. 6. Rodríguez
-   5. 6. Perez
+Nicolas Gil Rodriguez: 1. / 2. / 4. / 5. 
+
+Joaquin Gomez: 1. / 5. / 6. / 7.
+
+Santiago Ivaldi: 3. / 4. / 6.
+
+Bruno Spataro Saponara: 1. / 2. / 5. / 6.
+
 
 
 Primer entregable (30/6)
 
 Estructura de la base de datos
+
 Preguntas y respuestas
-Reglas y puntajes
-Maqueta html
+
+Maqueta html y css
 
 Segundo entregable (7/7)
 
 API en flask de preguntas y respuestas
+
 UI de preguntas y respuetas en conjunto con back-end
+
 Pruebas de juego
 
 Tercer entregable (14/7)
