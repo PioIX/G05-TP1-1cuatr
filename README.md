@@ -112,15 +112,15 @@ Incluye un contrareloj
 
 Nicolas Gil Rodriguez: 1. / 2. / 4. / 5. 
 
-Joaquin Gomez: 1. / 5. / 6. / 7.
+Joaquin Gomez: 1. / 2. / 5. / 6.
 
-Santiago Ivaldi: 3. / 4. / 6.
+Santiago Ivaldi: 3. / 4. / 6. / 7.
 
 Bruno Spataro Saponara: 1. / 2. / 5. / 6.
 
 
 
-Primer entregable (30/6)
+### Primer entregable (30/6)
 
 Estructura de la base de datos
 
@@ -128,7 +128,7 @@ Preguntas y respuestas
 
 Maqueta html y css
 
-Segundo entregable (7/7)
+### Segundo entregable (7/7)
 
 API en flask de preguntas y respuestas
 
@@ -136,6 +136,6 @@ UI de preguntas y respuetas en conjunto con back-end
 
 Pruebas de juego
 
-Tercer entregable (14/7)
+### Tercer entregable (14/7)
 
 Juego completo en línea
