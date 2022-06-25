@@ -114,7 +114,7 @@ Nicolas Gil Rodriguez: 1. / 2. / 4. / 5.
 
 Joaquin Gomez: 1. / 2. / 5. / 6.
 
-Santiago Ivaldi: 3. / 4. / 6. / 7.
+Santiago Ivaldi: 3. / 4. / 6. / 7./5.(parte de JS)
 
 Bruno Spataro Saponara: 1. / 2. / 5. / 6.
 
