@@ -68,9 +68,10 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
 
 A : xxxxxx xxxxx xxxxxxx xxxxxxxxxx
 
-PASAPALABRA      [             ] ENVIAR
+PASAPALABRA      ["________________"] ENVIAR
 
 —-------------------------------------------------------------
+
 fin de partida - respuestas correctas y segundos sobrantes (en caso de completar el rosco)
 
 
