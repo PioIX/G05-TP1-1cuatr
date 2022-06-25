@@ -10,7 +10,7 @@
 
 ___
 
-Título de la propuesta:  Pasapalabra sobre 3 ODS ( "Fin de la pobreza" / "" / "" )
+Título de la propuesta:  Pasapalabra sobre 3 ODS ( "Fin de la pobreza" / "Salud y Bienestar" / "Hambre Cero" )
 
 
 Descripción de la propuesta:
