@@ -74,15 +74,16 @@ PASAPALABRA      ["________________"] ENVIAR
 
 fin de partida - respuestas correctas y segundos sobrantes (en caso de completar el rosco)
 
-
+___
 
 Funcionalidad:
 
-Multijugador
-Varias rondas con entre 5 y 10 preguntas cada una
-Preguntas y respuestas, jugadores y sus puntajes en base de datos
-Ranking de jugadores, evolución de u jugador
+Diversos tipos de pruebas dentro del mismo programa
+Cada prueba tiene variaciones dependiendo del ODS en el que se centre
+Las preguntas junto a sus respuestas estan dentro de una base de datos
 Agregado y modificación de preguntas 
+Ranking de los mejores jugadores
+Incluye un contrareloj
 
 
 Tareas
