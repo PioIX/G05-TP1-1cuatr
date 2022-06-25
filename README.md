@@ -76,24 +76,35 @@ fin de partida - respuestas correctas y segundos sobrantes (en caso de completar
 
 ___
 
-Funcionalidad:
+#### Funcionalidad:
 
 Diversos tipos de pruebas dentro del mismo programa
+
 Cada prueba tiene variaciones dependiendo del ODS en el que se centre
+
 Las preguntas junto a sus respuestas estan dentro de una base de datos
+
 Agregado y modificación de preguntas 
+
 Ranking de los mejores jugadores
+
 Incluye un contrareloj
 
 
-Tareas
+#### Tareas:
 
 Investigación y redacción de preguntas y sus respuestas
+
 Diseño de imagen y de la UI
+
 Diseño de la base de datos 
+
 Funciones de interacción con la base (API, Flask) 
+
 Front-end del juego (HTML, CSS, JS)
+
 Testeo 
+
 Puesta en producción
 
 
