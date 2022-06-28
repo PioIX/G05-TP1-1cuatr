@@ -72,9 +72,11 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
 —-------------------------------------------------------------
 Se darán palabras/frases de un lado y del otro y habrá que unir las relacionadas
 
-  HOLA ————————————————————————————————————> CHAU
+  INDIGENTES ———————————————————————> 10% 
   
-  LUNA ————————————————————————————————————> SOL
+  "Continente con más hambre" ———————————————————————> ÁFRICA
+  
+ **PD: AUNQUE SEA DE ARGENTINA, ES UN EJEMPLO
   _ _ _ _ _ _ _ _ _
 
 
