@@ -76,7 +76,7 @@ Se darán palabras/frases de un lado y del otro y habrá que unir las relacionad
   
   "Continente con más hambre" ———————————————————————> ÁFRICA
   
- **PD: AUNQUE SEA DE ARGENTINA, ES UN EJEMPLO
+PD: AUNQUE SEA DE ARGENTINA, ES UN EJEMPLO
   _ _ _ _ _ _ _ _ _
 
 
