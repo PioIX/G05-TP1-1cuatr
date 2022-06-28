@@ -64,6 +64,17 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
   * Se dará una definición
 * 6 oportunidades
 * se toca la letrita
+
+—-------------------------------------------------------------
+### UNIR PALABRAS - ODS 2: "Eliminar el Hambre"
+
+
+—-------------------------------------------------------------
+Se darán palabras/frases de un lado y del otro y habrá que unir las relacionadas
+
+  HOLA ————————————————————————————————————> CHAU
+  
+  LUNA ————————————————————————————————————> SOL
   _ _ _ _ _ _ _ _ _
 
 
