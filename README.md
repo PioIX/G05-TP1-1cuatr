@@ -61,12 +61,11 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
              |     [ T ] [ U ] [ V ] [ W ] [ X ]
              |              [ Y ] [ Z ]
   ===========+ 
-  
-  _ _ _ _ _ _ _ _ _
-  
-* Se dará una definición
+  * Se dará una definición
 * 6 oportunidades
 * se toca la letrita
+  _ _ _ _ _ _ _ _ _
+
 
 ### ROSCO - TODOS LOS ODS
 
