@@ -64,6 +64,19 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
   * Se dará una definición
 * 6 oportunidades
 * se toca la letrita
+
+—-------------------------------------------------------------
+### UNIR PALABRAS - ODS 2: "Eliminar el Hambre"
+
+
+—-------------------------------------------------------------
+Se darán palabras/frases de un lado y del otro y habrá que unir las relacionadas
+
+  INDIGENTES ———————————————————————> 10% 
+  
+  "Continente con más hambre" ———————————————————————> ÁFRICA
+  
+PD: AUNQUE SEA DE ARGENTINA, ES UN EJEMPLO
   _ _ _ _ _ _ _ _ _
 
 
