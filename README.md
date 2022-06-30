@@ -92,6 +92,21 @@ fin de partida - respuestas correctas y segundos sobrantes (en caso de completar
 
 ___
 
+—-------------------------------------------------------------
+
+### BOCETO
+<img src="1.jpg" alt="Clases"/>
+<img src="2.jpg" alt="Clases"/>
+<img src="3.jpg" alt="Clases"/>
+<img src="4.jpg" alt="Clases"/>
+<img src="5.jpg" alt="Clases"/>
+<img src="6.jpg" alt="Clases"/>
+<img src="7.jpg" alt="Clases"/>
+<img src="8.jpg" alt="Clases"/>
+<img src="9.jpg" alt="Clases"/>
+<img src="10.jpg" alt="Clases"/>
+
+
 #### Funcionalidad:
 
 Diversos tipos de pruebas dentro del mismo programa
