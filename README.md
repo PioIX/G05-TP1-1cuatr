@@ -159,6 +159,10 @@ Preguntas y respuestas
 
 Maqueta html y css
 
+### Entrega:
+
+https://replit.com/@NicolasGR8/ODS?v=1
+
 ### Segundo entregable (7/7)
 
 API en flask de preguntas y respuestas
