@@ -44,7 +44,7 @@ En los ultimos años en la Argentina, el indice de pobreza...
 
 Se mantuvo estable - 		- Se fue reduciendo gradualmente - 
 
-No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de forma radical -
+No se tienen datos suficientes para analizar sus variaciones - 		- Aumento de forma radical -
 
 
 —-------------------------------------------------------------
@@ -52,15 +52,8 @@ No se tienen datos suficientes para analizar sus variaciones - 		- Aumentao de f
 
 
 —-------------------------------------------------------------
-
-        |====+
-        |    |     [ A ] [ B ] [ C ] [ D ] [ E ]
-             |     [ F ] [ G ] [ H ] [ I ] [ J ]
-             |     [ K ] [ L ] [ M ] [ N ] [ Ñ ]
-             |     [ O ] [ P ] [ Q ] [ R ] [ S ]
-             |     [ T ] [ U ] [ V ] [ W ] [ X ]
-             |              [ Y ] [ Z ]
-  ===========+ 
+<img src="/Imagenes/ahorcado.jpg" alt="Clases"/>
+      
   * Se dará una definición
 * 6 oportunidades
 * se toca la letrita
@@ -95,16 +88,16 @@ ___
 —-------------------------------------------------------------
 
 ### BOCETO
-<img src="1.jpg" alt="Clases"/>
-<img src="2.jpg" alt="Clases"/>
-<img src="3.jpg" alt="Clases"/>
-<img src="4.jpg" alt="Clases"/>
-<img src="5.jpg" alt="Clases"/>
-<img src="6.jpg" alt="Clases"/>
-<img src="7.jpg" alt="Clases"/>
-<img src="8.jpg" alt="Clases"/>
-<img src="9.jpg" alt="Clases"/>
-<img src="10.jpg" alt="Clases"/>
+<img src= "/Imagenes/1. Pantalla Principal.jpg" alt="Clases"/>
+<img src="/Imagenes/2. Pantalla del Primer Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/3. El Primer Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/4. Pantalla del Segundo Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/5. El Segundo Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/6. Pantalla del Tercer Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/7. El Tercer Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/8. Pantalla del Cuarto Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/9. El Cuarto Juego.jpg" alt="Clases"/>
+<img src="/Imagenes/Tabla de Puntación.jpg" alt="Clases"/>
 
 
 #### Funcionalidad:
