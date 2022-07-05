@@ -95,16 +95,16 @@ ___
 —-------------------------------------------------------------
 
 ### BOCETO
-<img src="imagenes/1.jpg" alt="Clases"/>
-<img src="imagenes/2.jpg" alt="Clases"/>
-<img src="imagenes/3.jpg" alt="Clases"/>
-<img src="imagenes/4.jpg" alt="Clases"/>
-<img src="imagenes/5.jpg" alt="Clases"/>
-<img src="imagenes/6.jpg" alt="Clases"/>
-<img src="7çimagenes/7.jpg" alt="Clases"/>
-<img src="imagenes/8.jpg" alt="Clases"/>
-<img src="imagenes/9.jpg" alt="Clases"/>
-<img src="imagenes/10.jpg" alt="Clases"/>
+<img src="1.Pantalla principal.jpg" alt="Clases"/>
+<img src="2.Pantalla del Primer juego.jpg" alt="Clases"/>
+<img src="3.El Primer juego.jpg" alt="Clases"/>
+<img src="4.Pantalla del Segundo Juego.jpg" alt="Clases"/>
+<img src="5.El Segundo Juego.jpg" alt="Clases"/>
+<img src="6.Pantalla del Tercer Juego.jpg" alt="Clases"/>
+<img src="7.El Tercer Juego.jpg" alt="Clases"/>
+<img src="8.Pantalla del Cuarto Juego.jpg" alt="Clases"/>
+<img src="9.El Cuarto Juego.jpg" alt="Clases"/>
+<img src="10.Tabla de Puntuacion.jpg" alt="Clases"/>
 
 
 #### Funcionalidad:
