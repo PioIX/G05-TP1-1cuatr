@@ -95,16 +95,16 @@ ___
 —-------------------------------------------------------------
 
 ### BOCETO
-<img src="1.jpg" alt="Clases"/>
-<img src="2.jpg" alt="Clases"/>
-<img src="3.jpg" alt="Clases"/>
-<img src="4.jpg" alt="Clases"/>
-<img src="5.jpg" alt="Clases"/>
-<img src="6.jpg" alt="Clases"/>
-<img src="7.jpg" alt="Clases"/>
-<img src="8.jpg" alt="Clases"/>
-<img src="9.jpg" alt="Clases"/>
-<img src="10.jpg" alt="Clases"/>
+<img src="imagenes/1.jpg" alt="Clases"/>
+<img src="imagenes/2.jpg" alt="Clases"/>
+<img src="imagenes/3.jpg" alt="Clases"/>
+<img src="imagenes/4.jpg" alt="Clases"/>
+<img src="imagenes/5.jpg" alt="Clases"/>
+<img src="imagenes/6.jpg" alt="Clases"/>
+<img src="7çimagenes/7.jpg" alt="Clases"/>
+<img src="imagenes/8.jpg" alt="Clases"/>
+<img src="imagenes/9.jpg" alt="Clases"/>
+<img src="imagenes/10.jpg" alt="Clases"/>
 
 
 #### Funcionalidad:
