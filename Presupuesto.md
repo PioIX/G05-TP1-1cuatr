@@ -95,8 +95,8 @@ ___
 —-------------------------------------------------------------
 
 ### BOCETO
-<img src=Imagenes "1.Pantalla Principal.jpg" alt="Clases"/>
-<img src="2.Pantalla del Primer juego.jpg" alt="Clases"/>
+<img src= "/Imagenes/1.Pantalla Principal.jpg" alt="Clases"/>
+<img src="/Imagenes/2.Pantalla del Primer juego.jpg" alt="Clases"/>
 <img src="3.El Primer juego.jpg" alt="Clases"/>
 <img src="4.Pantalla del Segundo Juego.jpg" alt="Clases"/>
 <img src="5.El Segundo Juego.jpg" alt="Clases"/>
